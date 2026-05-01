@@ -18,7 +18,6 @@ Odin Recipes es un proyecto de ejercicio creado para practicar HTML y CSS. Está
 - `styles.css` (si existe): Estilos para diseño y presentación.
 - Imágenes u otros recursos (si se agregan): Apoyo visual para las recetas.
 
-> Nota: Si por ahora sólo existe el `readme.md`, este repositorio muestra la intención del proyecto. Se puede ampliar con archivos HTML y CSS según avance el desarrollo.
 
 ## Instalación y uso
 
