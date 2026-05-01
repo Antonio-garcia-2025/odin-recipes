@@ -1,0 +1,62 @@
+body {
+    background-color: lightgray;
+    align-items: center;
+    text-align: center;
+}
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    align-items: center;
+    text-align: center;
+}
+p {
+    background-color: green;
+    color: lightblue;
+    font-size: 36px;
+}
+button {
+    background-color: orange;
+    font-size: 28px;
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+#ingredientes {
+    background-color: pink;
+    font-size: 18px;
+    font-style: verdana;
+}
+#preparacion {
+    background-color: pink;
+    color: black;
+    font-size: 18px;
+    font-style: verdana;
+}
+#detalles {
+    background-color: pink;
+    color: black;
+    font-size: 18px;
+    font-style: verdana;
+}
+
+#tacos {
+    background-color: black;
+    color: white;
+    font-style: helvetica;
+}
+#pizza {
+    background-color: yellow;
+}
+img {
+    width: 300px;
+    height: 200px;
+    align-content: center;
+}
+footer {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
